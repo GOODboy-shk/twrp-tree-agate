@@ -1,4 +1,3 @@
-# twrp tree agate
 # Android device tree for Xiaomi 21081111RG (agate)
 
 ```
